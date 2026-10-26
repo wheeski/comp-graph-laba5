@@ -1,1 +1,0 @@
-# comp-graph-laba5
